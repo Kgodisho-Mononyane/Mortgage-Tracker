@@ -1,0 +1,28 @@
+.body {
+    background-color: #E5E7EB;
+    /*color: ;*/
+}
+
+.header {
+    background-color: #1F2937;
+    display: flex;
+    text-decoration: none;
+}
+
+.navigation {
+    flex: 1;
+    
+}
+
+
+
+
+
+
+
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    height: auto;
+    width: auto;
+}
